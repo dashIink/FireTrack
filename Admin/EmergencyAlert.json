@@ -1,0 +1,6 @@
+{
+    "type": "EmergencyAlert",
+    "callCode": "A123",
+    "address": "1234 Elm Street, Springfield, IL",
+    "info": "Fire reported in the building. Evacuate immediately."
+}
